@@ -10,7 +10,7 @@ Setup and usage documentation: [docs/en/index.md](docs/en/index.md)
 ## Requirements ##
 
  * SilverStripe CMS 3.1+
- * Optional [https://github.com/UndefinedOffset/SortableGridField]SortableGridField 
+ * Optional [SortableGridField](https://github.com/UndefinedOffset/SortableGridField)
  
 ## Maintainers ##
 
