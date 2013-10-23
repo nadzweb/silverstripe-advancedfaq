@@ -1,7 +1,7 @@
 # Advanced faq module for SilverStripe #
 
 ## Introduction ##
-The advancedfaq module allows you to add faqs on your SilverStripe website. Each faq object can have multiple tags and single sections attached to it.
+The advancedfaq module allows you to add faqs on your SilverStripe website. Each faq object can have multiple faq-tags and one faq-section attached to it.
 
 ## Usage
 

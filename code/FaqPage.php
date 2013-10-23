@@ -1,10 +1,10 @@
 <?php
-/**
-  *	A SiteTree page for faqs
-  * 
-  * @package advancedfaq
-  * @author Nadzweb.com
-**/
+/*
+ *	A SiteTree page for faqs
+ * 
+ * @package advancedfaq
+ * @author Nadzweb.com
+*/
 class FaqPage extends Page {
 	
 	public static $has_many = array(
