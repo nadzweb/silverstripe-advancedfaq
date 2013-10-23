@@ -15,5 +15,5 @@ The advancedfaq module allows you to add faqs on your SilverStripe website. Each
 * All dataobjects are versioned by default, publish the page to view it from outside, otherwise view it in draft site.
 *
 * Sample output of advanced faq page
-![Alt text](https://github.com/nadzweb/silverstripe-advancedfaq/docs/sample-page.png "An advanced faq page")
+![Alt text](https://raw.github.com/nadzweb/silverstripe-advancedfaq/master/docs/sample-page.png "An advanced faq page")
 
