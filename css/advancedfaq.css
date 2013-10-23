@@ -1,0 +1,6 @@
+.advancedfaq a.anchor{font-size:12px;text-decoration:underline;}
+.advancedfaq a.anchor:hover{text-decoration:none;}
+.advancedfaq .section {margin-bottom:10px;font-size:16px;font-weight:bold;color:#222;}
+.advancedfaq .question {font-size:12px;color:#444;font-weight:bold}
+.advancedfaq .question .green-round-btn{background-color: #08cf37;  -moz-border-radius: 5px;  -webkit-border-radius: 5px;
+  border-radius: 5px; padding: 2px 4px 4px;  color:#fff;	  margin-left:10px;	}
