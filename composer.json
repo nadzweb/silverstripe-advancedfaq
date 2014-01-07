@@ -1,5 +1,5 @@
 {
-        "name": "nadzweb/advancedfaq",
+        "name": "mrkdevelopment/advancedfaq",
         "description": "Advanced faq with sections, tags and versioning",
         "type": "silverstripe-module",
         "keywords": ["silverstripe", "faq", "advanced faqs"],
@@ -11,5 +11,9 @@
         "require": {
                 "silverstripe/framework": "~3.1",
                 "silverstripe/cms": "~3.1"
-        }
+        },
+        "extra": {
+                "installer-name": "advancedfaq"
+        },
+        "target-dir": "advancedfaq"
 }

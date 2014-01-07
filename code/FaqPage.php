@@ -140,6 +140,7 @@ class FaqPage extends Page {
 class FaqPage_Controller extends Page_Controller {
 	
 	public function init(){
+		parent::init();
 		Requirements::css("advancedfaq/css/advancedfaq.css", "screen,projection");
 	}
 	
