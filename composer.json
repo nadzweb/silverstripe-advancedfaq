@@ -1,5 +1,5 @@
 {
-        "name": "mrkdevelopment/advancedfaq",
+        "name": "nadzweb/advancedfaq",
         "description": "Advanced faq with sections, tags and versioning",
         "type": "silverstripe-module",
         "keywords": ["silverstripe", "faq", "advanced faqs"],
