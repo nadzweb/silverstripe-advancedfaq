@@ -15,3 +15,7 @@ Setup and usage documentation: [docs/en/index.md](docs/en/index.md)
 ## Maintainers ##
 
  * Nadzweb.com <admin@nadzweb.com>
+ 
+## Screenshot ##
+Sample output of advanced faq page
+![Alt text](https://raw.github.com/nadzweb/silverstripe-advancedfaq/master/docs/sample-page.png "An advanced faq page")
